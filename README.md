@@ -1,4 +1,4 @@
-# peasaVigilanteAndroid_DEV
+# peasaVigilanteNodeJs_DEV
 Aplicacion nodejs para manejar la db, PEASA Vigilante
 
 #github
@@ -16,6 +16,9 @@ pass: peasa23??
 3.- npm install cookie-parser --save
 4.- npm install multer --save
 5.- npm install mysql --save
+
+#ejemplo servidor
+https://www.tutorialspoint.com/nodejs/nodejs_express_framework.htm
 
 #inicial el servidor
 node server.js
